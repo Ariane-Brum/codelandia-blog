@@ -1,0 +1,9 @@
+@import "./global/global.css";
+@import "./utilitarios/tipografia.css";
+@import "./utilitarios/cores.css";
+
+@import "./global/header.css";
+@import "./global/footer.css";
+@import "./posts/posts.css";
+
+@import "./utilitarios/componentes.css";

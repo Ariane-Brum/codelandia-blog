@@ -1,0 +1,32 @@
+:root {
+  --lexend-14: 400 0.875rem/1.75 "Lexend Deca", sans-serif;
+  --lexend-16: 400 1rem/1.25 "Lexend Deca", sans-serif;
+  --lexend-18: 400 1.125rem/1.75 "Lexend Deca", sans-serif;
+  --lexend-24: 400 1.5rem/1.5 "Lexend Deca", sans-serif;
+  --lexend-26: 400 1.625rem/1.24 "Lexend Deca", sans-serif;
+  --inter-18: 500 1.125rem/1.2 "Inter", sans-serif;
+}
+
+.lexend-14 {
+  font: 400 0.875rem/1.3 "Lexend Deca", sans-serif;
+}
+
+.lexend-16 {
+  font: 400 1rem/1.25 "Lexend Deca", sans-serif;
+}
+
+.lexend-18 {
+  font: 400 1.125rem/1.75 "Lexend Deca", sans-serif;
+}
+
+.lexend-24 {
+  font: 400 1.5rem/1.5 "Lexend Deca", sans-serif;
+}
+
+.lexend-26 {
+  font: 400 1.625rem/1.24 "Lexend Deca", sans-serif;
+}
+
+.inter-18 {
+  font: 500 1.125rem/1.2 "Inter", sans-serif;
+}

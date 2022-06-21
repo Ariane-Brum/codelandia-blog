@@ -1,0 +1,11 @@
+.footer {
+  background: var(--linear);
+  text-align: center;
+  padding: 1.5rem;
+}
+
+@media (max-width: 480px) {
+  .footer p {
+    font: var(--lexend-14);
+  }
+}

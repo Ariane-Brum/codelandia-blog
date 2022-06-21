@@ -1,0 +1,35 @@
+:root {
+  --blue: #3ea1db;
+  --blue-dark: #574ae8;
+  --white: #fff;
+  --body: #f3f5f7;
+  --title: #70e;
+  --text: rgba(0, 0, 0, 0.7);
+  --span: #8844ee;
+
+  --linear: linear-gradient(135deg, #8844ee, #b07dfb);
+}
+
+.body {
+  color: var(--body);
+}
+
+.white {
+  color: var(--white);
+}
+
+.title {
+  color: var(--title);
+}
+
+.text {
+  color: var(--text);
+}
+
+.span {
+  color: var(--span);
+}
+
+.linear {
+  color: var(--linear);
+}
